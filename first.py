@@ -40,4 +40,5 @@ from array import *
 # while(i<n):
 #    print(stu_roll)
 # i=i+1
+
 # stu_roll.append(6)
